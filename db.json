@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$kzGSMEtMjOLoP7xwlzgkOuoVa3fO0VhvWruuTA.HtQz4Svhpjpepy",
+      "name": "test 1",
+      "id": 1
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$Du89nMCbiAOA79oKleAF4eSrODbkRm8y56/vBMUHt5N29d2KMkjXu",
+      "name": "test 2",
+      "id": 2
+    }
+  ],
+  "conversations": [
+    
+  ],
+  "messages": [
+    
+  ]
+}
